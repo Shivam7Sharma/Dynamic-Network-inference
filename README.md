@@ -1,6 +1,4 @@
 
-
-```markdown
 # README
 
 This repository contains a PyTorch implementation of a branchy neural network for image classification on the CIFAR-10 dataset. The network is designed to have multiple exit points, allowing for early termination of inference based on a specified cutoff value.
@@ -46,7 +44,6 @@ The repository includes several plotting functions to visualize the performance 
 ## Usage
 
 1. Clone the repository and install the required dependencies.
-2. Run the `train.py` script to train the network.
-3. Run the `evaluate.py` script to evaluate the network.
-4. Run the `plot.py` script to visualize the performance of the network.
-```
+2. Run the `Dynamic Network inference.py` script to train the network.
+3. Run the `Dynamic Network inference.py` script to evaluate the network.
+4. Run the `Dynamic Network inference.py` script to visualize the performance of the network.
